@@ -11,7 +11,8 @@
       <td>bbbbbbbbbbbbbbb</td>
     </tr>
   </table>
-  <h1> <h2> <h3> <h4> RECURSION HEAD <\h1> <\h2> <\h3> <\h4>
+  <h1> <h2> <h3> <h4> RECURSION HEAD <\h4> <\h3> <\h2> <\h1>
+  
   <h5> RULES OF THIS PAGE <\h5>
   <p>
  Leht peab olema internetis vabalt kättesaadav, mitte näiteks asuma sinu läptopis või nõudma parooli.
