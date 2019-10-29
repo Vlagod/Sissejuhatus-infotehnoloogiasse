@@ -11,9 +11,9 @@
       <td>bbbbbbbbbbbbbbb</td>
     </tr>
   </table>
-  <h1> <h2> <h3> <h4> RECURSION HEAD <\h4> <\h3> <\h2> <\h1>
+  <h1>  HEAD  <\h1>
   
-  <h5> RULES OF THIS PAGE <\h5>
+  <h2> RULES OF THIS PAGE <\h2>
   <p>
  Leht peab olema internetis vabalt kättesaadav, mitte näiteks asuma sinu läptopis või nõudma parooli.
 Lehel peab kusagil olema sinu matriklinumber (sama, mis sisestad kontrolltöö ülemisse lahtrisse). Selle asukoht, kujundus jms ei ole oluline.
