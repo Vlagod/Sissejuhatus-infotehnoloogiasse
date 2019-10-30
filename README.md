@@ -1,7 +1,7 @@
 <html>
   <head>
-    <title> Title of my webpage <\title>
-  <\head>
+    <title> Title of my webpage </title>
+  </head>
   <body>
   <table>
     <tr>
@@ -11,9 +11,9 @@
       <td>bbbbbbbbbbbbbbb</td>
     </tr>
   </table>
-  <h1>  HEAD  <\h1>
+  <h1>  HEAD  </h1>
   
-  <h2> RULES OF THIS PAGE <\h2>
+  <h2> RULES OF THIS PAGE </h2>
   <p>
  Leht peab olema internetis vabalt kättesaadav, mitte näiteks asuma sinu läptopis või nõudma parooli.
 Lehel peab kusagil olema sinu matriklinumber (sama, mis sisestad kontrolltöö ülemisse lahtrisse). Selle asukoht, kujundus jms ei ole oluline.
@@ -26,6 +26,6 @@ Lehel peab olema vähemalt üks pilt (img tag ja selle src atribuudis pildi url:
 Lehel peab olema vähemalt üks link http://www.ttu.ee lehele (kasuta a tagi ja selle href atribuuti)
 Tagid tuleb kirjutada väikeste tähtedega.
 Kõigis muudes punktides on sul lehe sisu osas vabad käed! Millest seal lehel kirjutad ja mis pildi sinna paned, tulemust ei mõjuta
-  <\p>
-    <\body>
-<\html>
+  </p>
+    </body>
+</html>
