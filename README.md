@@ -2,7 +2,7 @@
   <head>
     <title> Title of my webpage <\title>
   <\head>
-      
+  <body>
   <table>
     <tr>
       <td>aaaaaaaaaaaaaaaaaaaaa</td>
@@ -27,4 +27,5 @@ Lehel peab olema vähemalt üks link http://www.ttu.ee lehele (kasuta a tagi ja 
 Tagid tuleb kirjutada väikeste tähtedega.
 Kõigis muudes punktides on sul lehe sisu osas vabad käed! Millest seal lehel kirjutad ja mis pildi sinna paned, tulemust ei mõjuta
   <\p>
+    <\body>
 <\html>
