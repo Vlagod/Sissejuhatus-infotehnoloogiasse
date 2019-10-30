@@ -37,6 +37,6 @@ Tagid tuleb kirjutada väikeste tähtedega.
 
 Kõigis muudes punktides on sul lehe sisu osas vabad käed! Millest seal lehel kirjutad ja mis pildi sinna paned, tulemust ei mõjuta
   </p>
-  <img src="1683461.jpg" alt="W3Schools.com" width="104" height="142
+  <img src="1683461.jpg" alt="There was a fox">
     </body>
 </html>
