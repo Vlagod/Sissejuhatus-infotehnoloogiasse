@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> Title of my webpage </title>
+    <title>Title of my webpage</title>
   </head>
   <body>
   <table>
