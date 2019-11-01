@@ -41,13 +41,13 @@ Mõistlik on ehitada leht kõigepealt valmis oma läptopis lihtsa tekstiredaktor
 Pane tähele, et saad kõik vajaliku teha githubi veebiaknas teksti redigeerides, sul ei ole vaja kasutada giti käsurea programmi või github desktoppi või Jekylli vms.
 
 Sarnasel viisil saab lehe teha ka näiteks gitlab pages abil, see on samuti väga ok variant.
-<a href="https://www.ttu.ee/tudengile">...</a>
 <h3>
 193598IADB
 193598IADB
 193598IADB
   </h3>
   </p>
+  <a href="https://www.ttu.ee/tudengile">...</a>
   <img src="1683461.jpg" alt="There was a fox">
     </body>
 </html>
