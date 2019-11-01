@@ -15,6 +15,9 @@
   
   <h2> RULES OF THIS PAGE </h2>
   <p>
+  193598IADB
+  193598IADB
+  193598IADB
  Leht peab olema internetis vabalt kättesaadav, mitte näiteks asuma sinu läptopis või nõudma parooli.
   
 Lehel peab kusagil olema sinu matriklinumber (sama, mis sisestad kontrolltöö ülemisse lahtrisse). Selle asukoht, kujundus jms ei ole oluline.
@@ -36,6 +39,9 @@ Lehel peab olema vähemalt üks link http://www.ttu.ee lehele (kasuta a tagi ja 
 Tagid tuleb kirjutada väikeste tähtedega.
 
 Kõigis muudes punktides on sul lehe sisu osas vabad käed! Millest seal lehel kirjutad ja mis pildi sinna paned, tulemust ei mõjuta
+193598IADB
+193598IADB
+193598IADB
   </p>
   <img src="1683461.jpg" alt="There was a fox">
     </body>
