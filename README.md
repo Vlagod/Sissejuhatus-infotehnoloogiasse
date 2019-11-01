@@ -1,13 +1,5 @@
 <html>
   <body>
-  <table>
-    <tr>
-      <td>aaaaaaaaaaaaaaaaaaaaa</td>
-    </tr>
-    <tr>
-      <td>bbbbbbbbbbbbbbb</td>
-    </tr>
-  </table>
   <h1>  HEAD  </h1>
   
   <h2> RULES OF THIS PAGE </h2>
@@ -15,6 +7,20 @@
   193598IADB
   193598IADB
   193598IADB
+   <table>
+    <tr>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>10</td>
+    </tr>
+      <tr>
+      <td>100a</td>
+    </tr>
+    <tr>
+      <td>300</td>
+    </tr>
+  </table>
 Esimese loengu kontrolltöös on viimaseks ülesandeks teha ise hästi lihtne veebileht. Seda ülesannet arvestatakse punktidena kolmekordselt (nagu kolme tava-küsimust). Puuduliku lehe eest saab vähem punkte. Leht peab vastama järgmistele nõuetele ja pead sisestama selle lehe urli viimase küsimuse vastuse lahtrisse. Sisestada tuleb täisurl, ehk, ta peab algama http-ga, nagu näiteks http://www.ttu.ee.
 
 Leht peab olema internetis vabalt kättesaadav, mitte näiteks asuma sinu läptopis või nõudma parooli.
