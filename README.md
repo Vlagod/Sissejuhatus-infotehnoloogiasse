@@ -47,7 +47,7 @@ Sarnasel viisil saab lehe teha ka näiteks gitlab pages abil, see on samuti väg
 193598IADB
   </h3>
   </p>
-  <a href="https://www.ttu.ee/tudengile">...</a>
+  <p><a href="https://www.ttu.ee/tudengile">ссылка</a></p>
   <img src="1683461.jpg" alt="There was a fox">
     </body>
 </html>
