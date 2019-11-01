@@ -1,8 +1,8 @@
 <html>
+  <body>
   <head>
     <title>Title of my webpage</title>
   </head>
-  <body>
   <table>
     <tr>
       <td>aaaaaaaaaaaaaaaaaaaaa</td>
