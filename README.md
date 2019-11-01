@@ -1,6 +1,6 @@
 <html>
   <head>
-<title>Page Title</title>
+Page Head
 </head>
   <body>
   <table>
